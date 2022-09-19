@@ -1,4 +1,4 @@
-YAML & JSON Essentials 
+ YAML & JSON Essentials 
 Introduction to Cloudformation
 
 01/27/2022
